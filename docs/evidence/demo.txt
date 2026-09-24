@@ -1,0 +1,9 @@
+Product[sku=MOUSE-01, name=Mouse USB, quantity=2, minimum=2]
+Movement[id=1, sku=MOUSE-01, delta=5, reason=Compra fictícia, createdAt=2026-09-24 22:30:36.044832]
+Movement[id=2, sku=MOUSE-01, delta=-3, reason=Entrega fictícia, createdAt=2026-09-24 22:30:36.046985]
+{produtos=1, unidades=2, reposicao=1}
+Bloqueio esperado: Produto inexistente, saldo insuficiente ou limite de estoque excedido.
+
+Product[sku=MOUSE, name=Mouse laboratorio, quantity=2, minimum=2]
+
+Persistencia entre processos e saida invalida: OK

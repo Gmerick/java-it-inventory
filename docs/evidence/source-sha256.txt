@@ -1,0 +1,8 @@
+977e00419b264ce0c6e8aebb7d84c061ddc454054c46d95d92e53bd61c71e089  examples/queries.sql
+dccca86424dc9f8b1e9e761d65cbfb2315d2fc36f906e68fc795e265705c37de  pom.xml
+cf9d67fd6ca261d75bcabff47a796d8449f74abc81bd3581f480c41803e63f27  src/main/java/io/github/gmerick/inventory/InventoryApp.java
+333126958cd2957f70c318999f579bc66f7b8564eabc8080ca4f884ae1e51ac8  src/main/java/io/github/gmerick/inventory/InventoryRepository.java
+1d40de8c35f51c43ff5fa741d8163e88351161f317aad1f6cf4a68f207b41a82  src/main/java/io/github/gmerick/inventory/InventoryService.java
+b08f702fc817aaa407a2fa818b89b27b7833d4bf91037b5f775c67a0103637a6  src/main/java/io/github/gmerick/inventory/Movement.java
+335fb622fe69244e9585516c4346a85e82e5e5e3b1d66ecbf34f986b790fb6dc  src/main/java/io/github/gmerick/inventory/Product.java
+ba1e97082b1858e425070932b59c32e92169fcd92480e70286ab8a2cfa8aefd3  src/test/java/io/github/gmerick/inventory/InventoryTest.java
