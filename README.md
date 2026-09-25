@@ -1,6 +1,15 @@
-# IT Inventory · Java & JDBC
+# StockFlow · Java com interface web
 
-Controle de estoque de materiais de TI pelo terminal. Demonstra fundamentos de Java e integridade de dados: cadastrar produtos, registrar entradas e saídas, consultar histórico e identificar reposição.
+## Interface web · versão 1.1.0
+
+![Tela do StockFlow](docs/screenshots/desktop.png)
+
+Execute `java -jar target/app.jar` e abra **http://localhost:8080**. Use os formulários e botões para cadastrar e acompanhar seus dados. [Guia da interface e atualização](docs/INTERFACE.md).
+
+O front-end responsivo é embarcado no JAR, sem instalação de Node para o usuário. A automação em **Actions** valida Java e fluxos de navegador e entrega um ZIP Windows com iniciador e checksum. Publicações versionadas ficam disponíveis pelo workflow **Publicar versão**.
+
+
+Controle de estoque de materiais de TI pelo navegador ou terminal. Demonstra fundamentos de Java e integridade de dados: cadastrar produtos, registrar entradas e saídas, consultar histórico e identificar reposição.
 
 **Java 17 · POO · Collections · JDBC · SQL · H2 · JUnit**
 
